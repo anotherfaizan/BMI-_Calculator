@@ -1,5 +1,5 @@
 
-#BMI_Calculator
+# BMI_Calculator
 
 Application designed to calculate the Body Mass Index of any person.
 
