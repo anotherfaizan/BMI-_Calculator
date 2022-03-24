@@ -37,6 +37,7 @@ class ResultPage extends StatelessWidget {
             child: SingleChildScrollView(
                 child: ReusableCard(
                     colour: kActiveCardColor,
+                  //Added gauge for displaying the end result
                   cardChild: Column(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     crossAxisAlignment: CrossAxisAlignment.center,
