@@ -73,6 +73,7 @@ class ResultPage extends StatelessWidget {
                   ),
                 ),),
           ),
+          //goes back to input_page screen
           BottomButton(
             buttonTitle: 'RE-CALCULATE',
             onTap: (){
