@@ -17,8 +17,11 @@ Upon clicking, the CALCULATE button at the bottom of the screen the page navigat
 
 BMI of the individual is shown .
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/92578144/159857744-070ce8b7-96a8-4bc1-a326-c22b76c391c0.gif" alt="animated" />
+</p>
 
-![BMI_vdo_gif](https://user-images.githubusercontent.com/92578144/159857744-070ce8b7-96a8-4bc1-a326-c22b76c391c0.gif)
+<!-- ![BMI_vdo_gif](https://user-images.githubusercontent.com/92578144/159857744-070ce8b7-96a8-4bc1-a326-c22b76c391c0.gif) -->
 
 <!-- https://user-images.githubusercontent.com/92578144/159856026-800e13ee-b577-44ae-aa76-ad641be9c6be.mp4 -->
 
