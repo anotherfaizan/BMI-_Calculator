@@ -15,18 +15,8 @@ User can select their Gender, Height, Weight and Age
 
 Upon clicking, the CALCULATE button at the bottom of the screen the page navigates to a new screen where
 
-BMI of the individual is shown .
+BMI of the individual is shown.
 
 ![BMI_vdo_high_gif](https://user-images.githubusercontent.com/92578144/159859839-51c55e03-ab3f-4af9-87c8-bd425d5a4c78.gif)
 
 
-<!-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/92578144/159857744-070ce8b7-96a8-4bc1-a326-c22b76c391c0.gif" alt="animated" />
-</p> -->
-
-<!-- ![BMI_vdo_gif](https://user-images.githubusercontent.com/92578144/159857744-070ce8b7-96a8-4bc1-a326-c22b76c391c0.gif) -->
-
-<!-- https://user-images.githubusercontent.com/92578144/159856026-800e13ee-b577-44ae-aa76-ad641be9c6be.mp4 -->
-
-<!-- ![Screenshot_20220322_230920](https://user-images.githubusercontent.com/92578144/159543631-5c529cd7-432b-415b-97f5-b682d3ba1183.png) -->
-<!-- ![Screenshot_20220322_230950](https://user-images.githubusercontent.com/92578144/159543714-79c1a178-dbec-4803-ab04-f87813ef52f1.png) -->
